@@ -1,6 +1,6 @@
 # Objective
 To classify each entity in a UPI remark into a category,Approaching the problem as a NER problem statement
-![alt text](https://github.com/pranavjadhav001/UpiNer/blob/master/images/2023-06-09_20-52.png)<br />
+![alt text](https://github.com/pranavjadhav001/UpiNer/blob/main/images/2023-06-09_20-52.png)<br />
 
 # Basic Commands for training NER Spacy Model:
 
