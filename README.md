@@ -1,7 +1,6 @@
 # Objective
 To classify each entity in a UPI remark into a category,Approaching the problem as a NER problem statement
-![alt text](https://github.com/pranavjadhav001/UpiNer/blob/main/images/Image.jpg)<br />
-
+![alt text](https://github.com/pranavjadhav001/UpiNer/blob/main/images/Image.jpg?raw=true)
 # Basic Commands for training NER Spacy Model:
 
 - make spacy datasets -> python3 create_spacy_bin.py --output_path datasets/training.spacy --input_path anno.json --input_type json
